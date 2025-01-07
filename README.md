@@ -1,8 +1,6 @@
 # SAT-Solver
 A self-contained implementation of Linear &amp; Cubic SAT Solvers from book of ``Logic in Computer Science: Modelling and reasoning about systems`` by Michael Huth and Mark Ryan.
 
-I implemented these two solvers for the course `Fundamentals of Logic and Set Theory` during my bachelor's degree in computer science at Amirkabir University of Technology.
-
 Unfortunately, due to the shortage of time, I did not have enough time to make my code as efficient as possible, and it also has boilerplate code. However, it may be useful for anyone seeking the implementation of these two algorithms because I did not find any implementation for them anywhere else.
 
 # Reserved Keywords
